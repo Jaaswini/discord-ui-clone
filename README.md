@@ -1,0 +1,1 @@
+A Discord UI clone project aims to recreate the distinctive and user-friendly interface of the Discord messaging and voice communication platform. Discord, widely used by gamers, communities, and professionals alike, features a sleek and functional design that fosters seamless interaction. 
